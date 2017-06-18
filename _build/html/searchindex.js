@@ -1,1 +1,1 @@
-Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,jun:0,modul:0,page:0,search:0},titles:["Welcome to StartSphinx\u2019s documentation!"],titleterms:{document:0,indic:0,startsphinx:0,tabl:0,welcom:0}})
+Search.setIndex({docnames:["index"],envversion:52,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,jun:0,modul:0,page:0,search:0,version:0},titles:["Welcome to StartSphinx\u2019s documentation!"],titleterms:{document:0,indic:0,startsphinx:0,tabl:0,welcom:0}})
